@@ -4,7 +4,7 @@ SunnySun
 FirstGDir
 
 ====
-<script type="text/javascript">
+&lt;script type="text/javascript"$gt;
 var i = 0;
-</script>
+&lt;/script&gt;
 ====
