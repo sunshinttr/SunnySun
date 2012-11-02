@@ -3,6 +3,8 @@ SunnySun
 
 FirstGDir
 
-==== <script type="text/javascript">
-==== var i = 0;
-==== </script>
+====
+<script type="text/javascript">
+var i = 0;
+</script>
+====
